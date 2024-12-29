@@ -7,5 +7,5 @@ Instruções para reprodução do ambiente e Orientações para instalação de 
 1. Baixe e instale o Ollama (https://ollama.com/)
 2. Baixe e instale o modelo "mxbai-embed-large" disponível em "https://ollama.com/library/mxbai-embed-large".
      obs: a instalação é feita diretamente através do prompt de comando do Visual Studio Code ou ou ferrramente similar
-3. Baixe e instale a biblioteca "numpy" (https://numpy.org/install/) e "langchain_community.embeddings" (pip install langchain)
+3. Baixe e instale a biblioteca "numpy" (https://numpy.org/install/) e "langchain_community.embeddings" (pip install -U langchain-ollama)
 4. Com o ambiente pronto basta rodar o código e fazer as alterações que desejar
