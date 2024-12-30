@@ -1,4 +1,3 @@
-import numpy as np
 from langchain_community.embeddings import OllamaEmbeddings
 
 # Define a frase
